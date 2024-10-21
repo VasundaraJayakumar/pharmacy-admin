@@ -22,8 +22,8 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          1. How do I log in to the Pharmacist Admin Dashboard?
+          You can log in by entering your username and password on the login page. If you don’t have login credentials, contact your system administrator to create an account.
           </Typography>
         </AccordionDetails>
       </Accordion>

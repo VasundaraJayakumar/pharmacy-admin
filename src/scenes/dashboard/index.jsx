@@ -21,7 +21,7 @@ const Dashboard = () => {
     <Box m="20px">
       {/* HEADER */}
       <Box display="flex" justifyContent="space-between" alignItems="center">
-        <Header title="DASHBOARD" subtitle="Welcome to your dashboard" />
+        <Header title="e-Hospital" subtitle="Smart Digital Medicine Solutions" />
 
         <Box>
           <Button
@@ -56,7 +56,7 @@ const Dashboard = () => {
         >
           <StatBox
             title="12,361"
-            subtitle="Emails Sent"
+            subtitle="Alerts & Mails"
             progress="0.75"
             increase="+14%"
             icon={
@@ -93,8 +93,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="32,441"
-            subtitle="New Clients"
+            title="3,244"
+            subtitle="New Patients"
             progress="0.30"
             increase="+5%"
             icon={
@@ -112,8 +112,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="1,325,134"
-            subtitle="Traffic Received"
+            title="35"
+            subtitle="Penidng Prescriptions"
             progress="0.80"
             increase="+43%"
             icon={
